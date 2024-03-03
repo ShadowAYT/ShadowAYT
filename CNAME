@@ -1,1 +1,3 @@
-www.shadowayt.com
+Host: www.shadowayt.com
+Type: CNAME
+Value: ShadowAYT.github.io
